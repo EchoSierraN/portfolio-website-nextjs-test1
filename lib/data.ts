@@ -98,7 +98,7 @@ export const projectsData = [
     title: "StockMaster",
     description:
       "A service that manages inventory and interprets data from collected data.",
-    tags: ["Next.js", "Redux", "Tailwind", "Material UI", "Express.js", "PostgreSQL", "Prisma", "EC2", "RDS", "Amplify", "S3"],
+    tags: ["Next.js", "Redux", "Tailwind", "Material UI", "Express.js", "PostgreSQL", "Prisma"],
     imageUrl: inventoryManagement1,
   },
   {
