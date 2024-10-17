@@ -72,7 +72,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Elias Shemsu.</span> I'm a{" "}
+        {/* <span className="font-bold">Hello, I'm Elias Shemsu.</span> I'm a{" "}
         <span className="font-bold">FULL STACK </span>
         <span>and </span>
         <span className="font-bold">NATIVE ANDROID</span>
@@ -86,7 +86,12 @@ export default function Intro() {
         <span className="underline">Next.js</span>
         <span> and </span>
         <span className="underline">Native Android</span>
-        <span> app development.</span>
+        <span> app development.</span> */}
+        <span>
+          Hello, I'm Elias Shemsu. I'm a full stack software developer. I've got
+          about 5 years of industry experience, specializing in Next.js and
+          native Android app development.
+        </span>
       </motion.h1>
 
       <motion.div
