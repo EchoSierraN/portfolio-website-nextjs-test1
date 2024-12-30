@@ -26,15 +26,6 @@ export default function About() {
         clients and stakeholders to communicate user requirements, deliver
         updates, managing crisis, and overall overseeing of operations.
       </p>
-
-      <p>
-        <span>When I'm not coding I enjoy </span>
-        <span className="italic">the company of good music, </span>
-        and
-        <span className="italic"> spending time with friends.</span> I enjoy
-        socializing with strangers that share my passion. I like building giant
-        systems out of small things that have harmony.
-      </p>
     </motion.section>
   );
 }
