@@ -101,8 +101,8 @@ export const projectsData = [
   {
     title: "StockMaster",
     description:
-      "A service that manages inventory and interprets data from collected data.",
-    tags: ["Next.js", "Redux", "Tailwind", "Material UI", "Express.js", "PostgreSQL", "Prisma"],
+      "A scalable and production-ready management system with insights on managed data.",
+    tags: ["Next.js", "Material UI", "Express.js", "Postgres", "Prisma", "AWS Amplify", "EC2", "RDS", "S3"],
     imageUrl: inventoryManagement1,
     url: "https://master.d2fmnoelvy8cdc.amplifyapp.com/",
   },
