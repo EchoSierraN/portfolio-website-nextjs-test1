@@ -45,12 +45,12 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Unity Game UI Developer / Programmer",
-    location: "Chewata Awaqi",
+    title: "Lead Front End Developer",
+    location: "3BL Enterprises",
     description:
-      "Served as the solo developer of Mela, an interactive storytelling game where the choices you make will impact the ending.",
-    icon: React.createElement(MdGamepad),
-    date: "2019 - 2020",
+      "Lead developer for Flowius Manage and Flowius Pay web apps.",
+    icon: React.createElement(MdOutlineMonitor),
+    date: "2022 - 2024",
     url: "",
   },
   {
@@ -63,14 +63,16 @@ export const experiencesData = [
     url: "",
   },
   {
-    title: "Lead Front End Developer",
-    location: "3BL Enterprises",
+    title: "Unity Game UI Developer / Programmer",
+    location: "Chewata Awaqi",
     description:
-      "Lead developer for Flowius Manage and Flowius Pay web apps.",
-    icon: React.createElement(MdOutlineMonitor),
-    date: "2022 - 2024",
+      "Served as the solo developer of Mela, an interactive storytelling game where the choices you make will impact the ending.",
+    icon: React.createElement(MdGamepad),
+    date: "2019 - 2020",
     url: "",
   },
+
+
   // {
   //   title: "Graduated bootcamp",
   //   location: "Miami, FL",
