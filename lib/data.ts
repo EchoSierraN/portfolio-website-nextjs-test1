@@ -63,6 +63,14 @@ export const experiencesData = [
     url: "",
   },
   {
+    title: "Graduated from Gebeya Academy",
+    location: "Gebeya Inc.",
+    description:
+      "I graduated after having completed the Android Development Track, and worked on two capstone projects",
+    icon: React.createElement(LuGraduationCap),
+    date: "2020-2021",
+  },
+  {
     title: "Unity Game UI Developer / Programmer",
     location: "Chewata Awaqi",
     description:
@@ -72,15 +80,6 @@ export const experiencesData = [
     url: "",
   },
 
-
-  // {
-  //   title: "Graduated bootcamp",
-  //   location: "Miami, FL",
-  //   description:
-  //     "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
-  //   icon: React.createElement(LuGraduationCap),
-  //   date: "2019",
-  // },
   // {
   //   title: "Front-End Developer",
   //   location: "Orlando, FL",
