@@ -14,6 +14,7 @@ import { MdGamepad } from "react-icons/md";
 import { FaMobileAlt } from "react-icons/fa";
 import { MdOutlineMonitor } from "react-icons/md";
 import { LuMonitor } from "react-icons/lu";
+import { url } from "inspector";
 
 export const links = [
   {
@@ -50,6 +51,7 @@ export const experiencesData = [
       "Served as the solo developer of Mela, an interactive storytelling game where the choices you make will impact the ending.",
     icon: React.createElement(MdGamepad),
     date: "2019 - 2020",
+    url: "",
   },
   {
     title: "Lead Android App Developer",
@@ -58,6 +60,7 @@ export const experiencesData = [
       "Lead developer for Flowius Manage, Flowius Pay and Flowius Survey Android apps.",
     icon: React.createElement(FaMobileAlt),
     date: "2022 - 2024",
+    url: "",
   },
   {
     title: "Lead Front End Developer",
@@ -66,6 +69,7 @@ export const experiencesData = [
       "Lead developer for Flowius Manage and Flowius Pay web apps.",
     icon: React.createElement(MdOutlineMonitor),
     date: "2022 - 2024",
+    url: "",
   },
   // {
   //   title: "Graduated bootcamp",
@@ -100,6 +104,7 @@ export const projectsData = [
       "A service that manages inventory and interprets data from collected data.",
     tags: ["Next.js", "Redux", "Tailwind", "Material UI", "Express.js", "PostgreSQL", "Prisma"],
     imageUrl: inventoryManagement1,
+    url: "https://master.d2fmnoelvy8cdc.amplifyapp.com/",
   },
   {
     title: "The Rainy Day Shelf",
@@ -107,6 +112,7 @@ export const projectsData = [
       "A store front for digital assets.",
     tags: ["Next.js", "PostgreSQL", "ShadCN", "Tailwind", "Prisma"],
     imageUrl: theRainyDayShelf1,
+    url: "",
   },
   {
     title: "BrainFlow",
@@ -114,6 +120,7 @@ export const projectsData = [
       "An AI powered chatbot that helps you contextually recall recorded information from the heaps of data it's fed.",
     tags: ["Next.js", "TypeScript", "ShadCN", "Tailwind", "ClerK", "MongoDB", "Prisma"],
     imageUrl: brainFlow1,
+    url: "",
   },
   {
     title: "Flowius Manage",
@@ -121,6 +128,7 @@ export const projectsData = [
       "A proprietary management app for 3BL Enterprises. Users can monitor and manage project activities, inventory, and special cases.",
     tags: ["React", "TypeScript", "Firebase", "Kotlin", "Android SDK", "Mapbox"],
     imageUrl: flowiusManage2,
+    url: "",
   },
   {
     title: "Flowius Pay",
@@ -128,6 +136,7 @@ export const projectsData = [
       "A proprietary management app for 3BL Enterprises. Users can record, monitor and interpret customer payment information.",
     tags: ["React", "JavaScript", "Firebase", "Kotlin", "Android SDK", "Mapbox"],
     imageUrl: flowiusPay5,
+    url: "",
   },
 ] as const;
 
